@@ -56,7 +56,7 @@ const Data = () => {
                 </svg>
             </h1>
             <h3 className='home_subtitle'>Front-End Developer</h3>
-            <p className="home_description">I am a Front-End Developer with over a year of experience, proficient in ReactJS and React Native frameworks. Strong team player with proven project management skills. Eager to learn and apply new technologies.</p>
+            <p className="home_description">I am a Front-End Developer with nearly two years of experience.</p>
 
             <a href="#contact" className="button button--flex">
                 Say Hello
