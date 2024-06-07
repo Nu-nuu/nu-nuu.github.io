@@ -1,3 +1,3 @@
-import { FE, BE, TP } from './skills';
+import { FE, BE, TP, WEBINFO, MOBINFO, UUINFO, MOB, UU, WEB } from './skills';
 
-export { FE, BE, TP };
+export { FE, BE, TP, WEBINFO, MOBINFO, UUINFO, MOB, UU, WEB };
