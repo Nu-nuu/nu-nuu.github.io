@@ -55,6 +55,21 @@ const WEBINFO = { title: 'Web Developer', description: 'Front-end developer with
 const MOBINFO = { title: 'Mobile Developer', description: 'Front-end developer experienced in React Native, building cross-platform mobile applications.' }
 const UUINFO = { title: 'UX/UI Designer', description: 'Designs and develops user interfaces (UI/UX) for web and mobile applications.' }
 
+const EDU = [
+    { id: 1, title: 'FPT University', area: 'Software Engineer', time: '2020 - 2024' },
+    { id: 2, title: 'Coursera', area: 'Software Development Lifecycle', time: '06/2022' },
+    { id: 3, title: 'Coursera', area: 'Google Project Management', time: '11/2023' },
+    { id: 4, title: 'Coursera', area: 'UX Research & Design', time: '11/2023' },
+    // { id: 5, title: 'FPT University', area: 'Software Engineer', time: '2020 - 2024' },
+];
 
-export { FE, BE, TP, WEB, MOB, UU, WEBINFO, MOBINFO, UUINFO };
+const EXP = [
+    { id: 1, title: 'FPT Software', area: 'Intern Front-End Developer', time: '1/2023 - 4/2023' },
+    // { id: 2, title: 'FPT University', area: 'Software Engineer', time: '2020 - 2024' },
+    // { id: 3, title: 'FPT University', area: 'Software Engineer', time: '2020 - 2024' },
+    // { id: 4, title: 'FPT University', area: 'Software Engineer', time: '2020 - 2024' },
+    // { id: 5, title: 'FPT University', area: 'Software Engineer', time: '2020 - 2024' },
+];
+
+export { FE, BE, TP, WEB, MOB, UU, WEBINFO, MOBINFO, UUINFO, EDU, EXP };
 
